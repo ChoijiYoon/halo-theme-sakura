@@ -959,7 +959,8 @@ theme:
       name: default_theme
       label: 默认主题
       type: select
-      default: "bg_0"
+#      默认为纯黑色背景
+      default: "bg_7"
       description: 可以设置默认主题，指定任何用户进入页面之后所看到的主题样式
       options:
         - value: "bg_0"
